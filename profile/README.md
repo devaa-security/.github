@@ -7,4 +7,4 @@ DEVAA-Security is not your typical security tool. It supports identifying secret
 
 DEVAA-Security has a proven track record of finding vulnerabilities across open-source projects such as VLC Android, Signal Android, ProtonMail Android client during thesis research. These are some of the most popular and trusted applications in the market, yet they still had security flaws that could compromise user data and privacy. DEVAA-Security was able to discover and report these vulnerabilities using its innovative methodology that combines traditional pen-testing methods and bug-bounty methodologies.
 
-If you want to learn more about DEVAA-Security and how it can help you secure your mobile applications, visit their website at https://devaa-security.com. You can also request a free demo and see for yourself how DEVAA-Security works. Don't let your applications be vulnerable to hackers and cyberattacks. Choose DEVAA-Security and protect your applications today!
+
