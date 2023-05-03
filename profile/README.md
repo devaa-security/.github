@@ -1,10 +1,11 @@
-## DEVAA Security ⚔️📱 - Defensive and Offensive Mobile Security Scanner
+## [DEVAA Mobile App Security](https://devaasecurity.com) 
 
-Are you looking for a mobile security solution that can help you find and fix vulnerabilities in your applications before they become a threat? 
-If so, you might want to check out DEVAA-Security, a mobile security startup that specializes in finding vulnerabilities in mobile and desktop applications.
+ <img src="https://skillicons.dev/icons?i=androidstudio,swift,java,kotlin,react" />
+ 
+ ### Opensource Scanner
+ 
+ 1. [Manifest Scanner](https://www.npmjs.com/package/manifest-scanner) - Android Manifest Scanner CLI which covers detecting basic vulnerable config and code
+ 2. Dependency Scanner - Coming Soon
+ 3. Static Code Analysis Rules - Android, iOS, ReactNative - Coming Soon
 
-DEVAA-Security is not your typical security tool. It supports identifying secrets in source code, APK file & IPK files, such as API keys, passwords, tokens, and other sensitive information that could be exploited by attackers. It also leverages static and dynamic analysis to identify vulnerabilities at scale within the CI/CD pipeline, providing real-time feedback for developers while building the application. This way, you can catch and fix security issues early in the development process, saving time and money.
-
-DEVAA-Security has a proven track record of finding vulnerabilities across open-source projects such as VLC Android, Signal Android, ProtonMail Android client during thesis research. These are some of the most popular and trusted applications in the market, yet they still had security flaws that could compromise user data and privacy. DEVAA-Security was able to discover and report these vulnerabilities using its innovative methodology that combines traditional pen-testing methods and bug-bounty methodologies.
-
-Contact and Application details - Coming soon 📲
+[Blog](https://blog.devaasecurity.com/)  | [Why DEVAA ?](https://blog.devaasecurity.com/blog/why-we-are-building-devaa-mobile-security-suite) | [Thesis](https://uwspace.uwaterloo.ca/handle/10012/17034) | [Contact us](mailto:hello@devaasecurity.com)
